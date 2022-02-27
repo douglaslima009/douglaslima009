@@ -1,4 +1,4 @@
-### 👾 _TOMORROW IS IN YOUR HANDS_ 👾
+## 👾 _TOMORROW IS IN YOUR HANDS_ 👾
 
 * 🌎 Brazilian 🌎
 * 👨‍💼 Game Director in Bionic Productions 👨‍💼
@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/douglaslima009">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglaslima009&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaslima009&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=douglaslima009&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaslima009&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -24,5 +24,9 @@
   <img align="center" alt="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
   <img align="center" alt="Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
   <img align="center" alt="Godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
-  <img align="right" alt="gif" height="200" style="border-radius:50px;" src="https://66.media.tumblr.com/33db28eb6c822cf4e51f1d39cc3751b3/8dbf084310843aff-d5/s400x600/e3e869c31e288d616b2710b68f5eef0467935a96.gif">
+  </div>
+  <br>
+  <br>
+  <div>
+    <img alt="gif" height="450" weidth="200" style="border-radius:50px;margin-right:40px"; src=https://c.tenor.com/fnIk-H3NpKoAAAAC/metalgearsolid.gif>
   </div>
