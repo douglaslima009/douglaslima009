@@ -10,7 +10,12 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=douglaslima009&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaslima009&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
+  <br>
+  <br>
+  <div>
+    <img alt="gif" height="450" weidth="200" style="border-radius:50px;margin-right:40px"; src=https://c.tenor.com/fnIk-H3NpKoAAAAC/metalgearsolid.gif>
+  </div>
+
   <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
@@ -24,9 +29,4 @@
   <img align="center" alt="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
   <img align="center" alt="Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
   <img align="center" alt="Godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
-  </div>
-  <br>
-  <br>
-  <div>
-    <img alt="gif" height="450" weidth="200" style="border-radius:50px;margin-right:40px"; src=https://c.tenor.com/fnIk-H3NpKoAAAAC/metalgearsolid.gif>
   </div>
