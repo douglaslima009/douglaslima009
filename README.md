@@ -4,17 +4,17 @@
 * 👨‍💼 Game Director in Bionic Productions 👨‍💼
 * 💬 Languages: English/Portuguese/Deutsch 💬
 * 👨🏻‍💻 Web Development Experience 👨🏻‍💻
-<br>
+<div>
+  
+  <div>
+  <img align="center" style="margin-right: 3000px" src=https://c.tenor.com/fnIk-H3NpKoAAAAC/metalgearsolid.gif> </p>
+  </div>
+  
 <div align="center">
-  <a href="https://github.com/douglaslima009">
+  <a href="https://github.com/rafaballerini">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=douglaslima009&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaslima009&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  <br>
-  <div>
-    <img style="border-radius:50px;margin-left:70px" alt="gif" height="450" weidth="200"; src=https://c.tenor.com/fnIk-H3NpKoAAAAC/metalgearsolid.gif>
-  </div>
-
   <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
