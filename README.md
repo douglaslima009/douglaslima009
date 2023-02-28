@@ -1,7 +1,6 @@
 ## 👾 _TOMORROW IS IN YOUR HANDS_ 👾
 
 * 🌎 Brazilian 🌎
-* 🕵️‍♂️ Game Director in Bionic Productions 🕵️‍♂️
 * 💬 Languages: English/Portuguese/Deutsch 💬
 * 👨🏻‍💻 Web Development Experience 👨🏻‍💻
 <div>
