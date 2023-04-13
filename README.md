@@ -1,8 +1,4 @@
-## 👾 _TOMORROW IS IN YOUR HANDS_ 👾
-
-* 🌎 Brazilian 🌎
 * 💬 Languages: English/Portuguese/Deutsch 💬
-* 👨🏻‍💻 Web Development Experience 👨🏻‍💻
 <div>
   
 <div align="center">
