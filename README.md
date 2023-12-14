@@ -1,4 +1,5 @@
 * 💬 Languages: English/Portuguese/Deutsch 💬
+<div>
 <div align="center">
   <a href="https://github.com/douglaslima009">
   <img height="150em" src="https://i.giphy.com/mxIRHvYYyFT5m.webp"/>
@@ -20,4 +21,5 @@
   <img align="center" alt="Unreal Engine" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original-wordmark.svg">
   <img align="center" alt="Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
   <img align="center" alt="Godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
+</div>
 </div>
