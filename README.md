@@ -4,6 +4,7 @@
 <div align="center">
   <a href="https://github.com/douglaslima009">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaslima009&layout=compact&langs_count=7&theme=dark"/>
+  <img src="![image](https://github.com/douglaslima009/douglaslima009/assets/100093979/bb1aae3a-8f5b-4f72-ad1a-523604a6eb4b)"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
