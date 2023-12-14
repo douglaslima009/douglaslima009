@@ -2,7 +2,7 @@
 <div>  
 <div align="center">
   <a href="https://github.com/douglaslima009">
-  <img height="150em" src="https://media2.giphy.com/media/mxIRHvYYyFT5m/giphy.gif?cid=ecf05e47qq9qrrqf7y09jzvmgt1jy0dtg3lwc2a80njnjdvn&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+  <img height="150em" src="https://i.giphy.com/mxIRHvYYyFT5m.webp"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaslima009&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
