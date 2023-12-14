@@ -3,8 +3,10 @@
   
 <div align="center">
   <a href="https://github.com/douglaslima009">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaslima009&layout=compact&langs_count=7&theme=dark"/>
   <img src="https://64.media.tumblr.com/65e04d4a39057ce2dfd33c17a7558856/tumblr_miznb2LyEH1rthi03o1_400.gifv"/>
+  <img src="https://i.imgur.com/mZtUw3E.gif"/>
+  <br>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaslima009&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
