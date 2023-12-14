@@ -1,5 +1,4 @@
 * 💬 Languages: English/Portuguese/Deutsch 💬
-<div>  
 <div align="center">
   <a href="https://github.com/douglaslima009">
   <img height="150em" src="https://i.giphy.com/mxIRHvYYyFT5m.webp"/>
