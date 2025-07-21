@@ -1,4 +1,4 @@
-<p align="center"
+<p align="center">
 <img src="https://66.media.tumblr.com/tumblr_li3y8asQMH1qcb5cmo1_500.jpg" width="600px" alt="teste">
 </p>
 
