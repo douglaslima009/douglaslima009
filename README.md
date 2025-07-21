@@ -13,7 +13,7 @@
 ### Manifesto Criativo.
 
 > **"Toda cultura nasce sob forma de jogo."**  
-> — Johan Huizinga, *Homo Ludens*
+> — Johan Huizinga, *Homo Ludens*.
 >  
 > Através do VORTEX e outras experiências digitais, transformo narrativa e programação em conexão e criação.
 >  
@@ -25,19 +25,19 @@
 
 ### O que estou criando?
 
-🎮 **Jogos livres & narrativas experimentais**  
+🎮 **Jogos livres & narrativas experimentais**.
 🔓 Tornando projetos **open source** para quem acredita na colaboração como revolução.  
-🌐 **Web interativa** com toques de caos controlado e interface viva.  
+🌐 **Web interativa** com toques de caos controlado e interface viva.
 
 ---
 
 ### Tecnologias.
 
-- 🎮 Unity + C#
-- 🖥️ OpenGL (Python/C++)
-- 🌐 MERN Stack, Next.js, Tailwind CSS
-- ⚙️ Git, GitHub, Linux, CLI
-- 💬 PHP, C, SQL, Shell Script
+- 🎮 Unity + C#.
+- 🖥️ OpenGL (Python/C++).
+- 🌐 MERN Stack, Next.js, Tailwind CSS.
+- ⚙️ Git, GitHub, CLI.
+- 💬 PHP, C, SQL, Shell Script, Java.
 
 ---
 
@@ -49,7 +49,7 @@
 
 ---
 
-### 💬 Languages: English / Portuguese / Deutsch 💬
+### 💬 Languages: English / Portuguese / Deutsch 💬.
 
 ---
 
