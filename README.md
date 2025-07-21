@@ -1,5 +1,4 @@
-<img width="491" height="315" alt="image" src="https://github.com/user-attachments/assets/6f770bc5-fa46-48e6-9044-c1eec4ade22f" /><p align="center">
-  <img src="https://66.media.tumblr.com/tumblr_li3y8asQMH1qcb5cmo1_500.jpg" width="600px" alt="teste">
+<img src="https://66.media.tumblr.com/tumblr_li3y8asQMH1qcb5cmo1_500.jpg" width="600px" alt="teste">
 </p>
 
 # Douglas Lima Menezes.
