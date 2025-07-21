@@ -1,50 +1,37 @@
-<p align="center">
+<img width="491" height="315" alt="image" src="https://github.com/user-attachments/assets/6f770bc5-fa46-48e6-9044-c1eec4ade22f" /><p align="center">
   <img src="https://66.media.tumblr.com/tumblr_li3y8asQMH1qcb5cmo1_500.jpg" width="600px" alt="teste">
 </p>
 
-# 🛠️ Douglas Lima Menezes
+# Douglas Lima Menezes.
 
-> 🎮 Diretor Criativo, Game Designer e Escritor  
-> 💻 Engenheiro de Software • UFC  
-> 🧠 Interatividade, narrativa e código fundidos em experiências vivas.
-
----
-
-### 👁️ Manifesto Criativo
-
-> **"Adverts tell lies. Being cool sucks. You’re a product."**  
-> — mas e se **o jogo** for a crítica?  
->  
-> Através do VORTEX e outras experiências digitais, transformo narrativa e programação em crítica, conexão e criação.  
-> Não sigo tendências: **hackeio expectativas.**  
->  
-> 👤 Diretor, Produtor e Designer no projeto [VORTEX - UFC](https://github.com/douglaslima009/VORTEX), onde lidero o desenvolvimento de jogos como forma de expressão, ensino e resistência criativa.  
->  
-> 🎞️ Do código ao conceito, cada linha que escrevo carrega o peso da narrativa.  
-> Se não provoca algo — **não vale o commit.**
+> Diretor Criativo, Game Designer e Escritor.
+> Engenheiro de Software • UFC.
+> Interatividade, Narrativa e Código.
 
 ---
 
-### 🧪 O que estou criando?
+### Manifesto Criativo.
+
+> **"Toda cultura nasce sob forma de jogo."**  
+> — Johan Huizinga, *Homo Ludens*
+>  
+> Através do VORTEX e outras experiências digitais, transformo narrativa e programação em conexão e criação.
+>  
+> 👤 Diretor, Game Design e Designer no projeto [VORTEX - UFC](instagram.com/vortexufc), onde lidero o desenvolvimento de jogos como forma de expressão, ensino e resistência criativa.
+>  
+> 🎞️ Do código ao conceito, cada linha que escrevo carrega o peso da narrativa.
+
+---
+
+### O que estou criando?
 
 🎮 **Jogos livres & narrativas experimentais**  
 🔓 Tornando projetos **open source** para quem acredita na colaboração como revolução.  
 🌐 **Web interativa** com toques de caos controlado e interface viva.  
-🎥 Explorando **captura de movimento**, visualização 3D com **OpenGL** e experiências de terror psicológico.
 
 ---
 
-### 🎲 Destaques do GitHub
-
-| Projeto | Descrição |
-|--------|-----------|
-| [VORTEX - Prólogo](https://github.com/douglaslima009/vortex) | Game narrativo com álgebra linear como mecânica central e atmosfera inspirada em *Kojima* + *Remedy*. |
-| [Gas Station Horror (OpenGL)](https://github.com/douglaslima009/gas-station-horror) | Aplicação 3D em primeira pessoa com ambientação de terror e colisão realista. |
-| [Roteiros & Ferramentas](https://github.com/douglaslima009?tab=repositories) | Ferramentas, docs e sistemas narrativos experimentais. |
-
----
-
-### 🔧 Tecnologias
+### Tecnologias.
 
 - 🎮 Unity + C#
 - 🖥️ OpenGL (Python/C++)
@@ -54,13 +41,11 @@
 
 ---
 
-### 🧭 Também me interesso por:
+### Também me interesso por:
 
-- Narrativas ramificadas e design de missões
-- Experiências imersivas sem jumpscares
-- Interfaces que falam com o jogador
-- Fragmentação, ruído, quebra da quarta parede
-- A estética do erro e do glitch como linguagem
+- Narrativas ramificadas e design de missões.
+- Interfaces que falam com o jogador.
+- Fragmentação, ruído, quebra da quarta parede.
 
 ---
 
@@ -70,14 +55,13 @@
 
 ### 📡 Contato
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/douglaslima009)
-- ✉️ douglaslima009@gmail.com  
-- 📁 [Portfólio GitHub](https://github.com/douglaslima009)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/douglaslima0451)
+- ✉️ douglaslima009@gmail.com
 
 ---
 
 <p align="center">
-  <img src="https://archillect.com/561780" width="400px" alt="arte final estilo brutalista/archillect">
+  <img src="https://66.media.tumblr.com/8b00b452c3d18997a344a720a8f7930b/c5d9ea014cc853ad-da/s500x750/e4b012c0cc0a0ea5f27fac0ca71e9208795782f6.jpg" width="400px" alt="final">
 </p>
 
-<p align="center"><i>O código fala. A arte responde.</i></p>
+<p align="center"><i>FIM.</i></p>
