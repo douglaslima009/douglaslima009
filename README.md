@@ -25,9 +25,9 @@
 
 ### O que estou criando?
 
-🎮 **Jogos livres & narrativas experimentais**.
-🔓 Tornando projetos **open source** para quem acredita na colaboração como revolução.  
-🌐 **Web interativa** com toques de caos controlado e interface viva.
+- 🎮 **Jogos livres & narrativas experimentais**.
+- 🔓 Tornando projetos **open source** para quem acredita na colaboração como revolução.
+- 🌐 **Web interativa** com toques de caos controlado e interface viva.
 
 ---
 
