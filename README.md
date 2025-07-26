@@ -43,9 +43,9 @@
 
 ### Também me interesso por:
 
-- Narrativas ramificadas e design de missões.
-- Interfaces que falam com o jogador.
-- Fragmentação, ruído, quebra da quarta parede.
+- Filmes.
+- Música.
+- Livros.
 
 ---
 
