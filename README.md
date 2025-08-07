@@ -18,8 +18,6 @@
 > Através do VORTEX e outras experiências digitais, transformo narrativa e programação em conexão e criação.
 >  
 > 👤 Diretor, Game Design e Designer no projeto [VORTEX - UFC](https://www.instagram.com/vortexufc), onde lidero o desenvolvimento de jogos como forma de expressão, ensino e resistência criativa.
->  
-> 🎞️ Do código ao conceito, cada linha que escrevo carrega o peso da narrativa.
 
 ---
 
@@ -27,7 +25,7 @@
 
 - 🎮 **Jogos livres & narrativas experimentais**.
 - 🔓 Tornando projetos **open source** para quem acredita na colaboração como revolução.
-- 🌐 **Web interativa** com toques de caos controlado e interface viva.
+- 🌐 **Web interativa** com toques de interface viva.
 
 ---
 
@@ -44,7 +42,7 @@
 ### Também me interesso por:
 
 - Filmes.
-- Música.
+- Músicas.
 - Livros.
 
 ---
