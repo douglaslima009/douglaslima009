@@ -2,15 +2,15 @@
 <img src="https://66.media.tumblr.com/tumblr_li3y8asQMH1qcb5cmo1_500.jpg" width="600px" alt="arte">
 </p>
 
-# Douglas Lima Menezes
+# Douglas Lima Menezes.
 
 > 🎮 Diretor Criativo, Game Designer & Escritor  
 > 💻 Engenheiro de Software — UFC  
-> ✦ Interatividade, Narrativa & Código
+> ✍🏻 Interatividade, Narrativa & Código
 
 ---
 
-## Manifesto Criativo
+## Manifesto Criativo.
 
 > **"Toda cultura nasce sob forma de jogo."**  
 > — Johan Huizinga, *Homo Ludens*
@@ -20,7 +20,7 @@ Atualmente, lidero o projeto [**VORTEX — UFC**](https://www.instagram.com/vort
 
 ---
 
-## O que estou criando
+## O que estou criando.
 
 - 🎮 Jogos experimentais & narrativas interativas  
 - 🔓 Projetos **open source** como forma de colaboração e revolução  
@@ -28,16 +28,16 @@ Atualmente, lidero o projeto [**VORTEX — UFC**](https://www.instagram.com/vort
 
 ---
 
-## Habilidades Técnicas
+## Habilidades Técnicas.
 
 - **Game Dev:** Unity (C#), OpenGL (Python/C++)  
-- **Web:** MERN Stack, Next.js, Tailwind CSS  
-- **Outros:** PHP, C, SQL, Shell Script, Java  
+- **Web:** MERN Stack, Vue.js, Tailwind CSS  
+- **Outros:** PHP, SQL, .NET
 - **Ferramentas:** Git, GitHub, CLI  
 
 ---
 
-## Interesses
+## Interesses.
 
 - 🎬 Cinema  
 - 🎶 Música  
@@ -45,7 +45,7 @@ Atualmente, lidero o projeto [**VORTEX — UFC**](https://www.instagram.com/vort
 
 ---
 
-## Idiomas
+## Idiomas.
 
 - 🇧🇷 Português  
 - 🇬🇧 English  
@@ -53,7 +53,7 @@ Atualmente, lidero o projeto [**VORTEX — UFC**](https://www.instagram.com/vort
 
 ---
 
-## 📡 Contato
+## Contato.
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/douglaslima0451)  
 - ✉️ **douglaslima009@gmail.com**
@@ -61,7 +61,7 @@ Atualmente, lidero o projeto [**VORTEX — UFC**](https://www.instagram.com/vort
 ---
 
 <p align="center">
-  <img src="https://66.media.tumblr.com/68fd16cabcff88b84c387a06df13d810/tumblr_nvcvq40qCO1srx8yco1_500.gif" width="400px" alt="arte-final">
+  <img src="https://drive.google.com/file/d/1oezncMTAdiBHh5HkrrZr_AZQJ_Q4eEQE/view?usp=drive_link" width="400px" alt="arte-final">
 </p>
 
 <p align="center"><i>FIM.</i></p>
