@@ -49,7 +49,8 @@ Atualmente, lidero o projeto [**VORTEX — UFC**](https://www.instagram.com/vort
 
 - 🇧🇷 Português  
 - 🇬🇧 English  
-- 🇩🇪 Deutsch  
+- 🇩🇪 Deutsch
+- 🇫🇮 Suomea
 
 ---
 
