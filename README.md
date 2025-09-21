@@ -61,7 +61,7 @@ Atualmente, lidero o projeto [**VORTEX — UFC**](https://www.instagram.com/vort
 ---
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1oezncMTAdiBHh5HkrrZr_AZQJ_Q4eEQE/view?usp=drive_link" width="400px" alt="arte-final">
+  <img src="https://66.media.tumblr.com/05d24483e2b2bb92a8bc52c9a1b555e7/tumblr_ndqxipm5oh1qzcuu3o1_500.gif" width="400px" alt="arte-final">
 </p>
 
 <p align="center"><i>FIM.</i></p>
