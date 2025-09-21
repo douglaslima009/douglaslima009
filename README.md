@@ -55,7 +55,8 @@ Atualmente, lidero o projeto [**VORTEX — UFC**](https://www.instagram.com/vort
 
 ## Contato.
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/douglaslima0451)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/douglaslima0451)
+- 📹 [Youtube](https://www.youtube.com/@douglaslima0451)
 - ✉️ **douglaslima009@gmail.com**
 
 ---
